@@ -1,0 +1,6 @@
+hi = "hiiiii"
+
+
+function bang(){
+	
+}
